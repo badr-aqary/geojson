@@ -1,0 +1,325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.87203814633574,
+          24.984632986544142
+        ]
+      },
+      "properties": {
+        "magnitude": 4.576895166962268,
+        "time": 1696881051,
+        "place": "Random Location 42245",
+        "depth": 543.745428103595
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.69977084977347,
+          22.340283762146512
+        ]
+      },
+      "properties": {
+        "magnitude": 7.113070999028196,
+        "time": 1627441265,
+        "place": "Random Location 13246",
+        "depth": 360.04311727827366
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.260276822229514,
+          -22.236860005953602
+        ]
+      },
+      "properties": {
+        "magnitude": 5.395449714842783,
+        "time": 1721832743,
+        "place": "Random Location 52952",
+        "depth": 660.0863226541383
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.49761445873379,
+          72.07043348191073
+        ]
+      },
+      "properties": {
+        "magnitude": 6.112594895683953,
+        "time": 1099286619,
+        "place": "Random Location 93168",
+        "depth": 356.9662311984605
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.47138444351066,
+          1.203752600463261
+        ]
+      },
+      "properties": {
+        "magnitude": 6.041079640795338,
+        "time": 1283416625,
+        "place": "Random Location 395",
+        "depth": 69.48975358590438
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.503897569423799,
+          1.6082420422606702
+        ]
+      },
+      "properties": {
+        "magnitude": 6.384253546787281,
+        "time": 1281444649,
+        "place": "Random Location 39254",
+        "depth": 518.4554034077465
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.93750837816688,
+          -17.6937979065371
+        ]
+      },
+      "properties": {
+        "magnitude": 8.319913289835513,
+        "time": 1291203305,
+        "place": "Random Location 43265",
+        "depth": 344.52215874679314
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.321281259099408,
+          36.85800258848592
+        ]
+      },
+      "properties": {
+        "magnitude": 5.463614649433779,
+        "time": 1383326262,
+        "place": "Random Location 43805",
+        "depth": 198.91139347094085
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.483370956814497,
+          19.0541748386795
+        ]
+      },
+      "properties": {
+        "magnitude": 7.432556897037255,
+        "time": 1537784970,
+        "place": "Random Location 36058",
+        "depth": 451.2485357466682
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.10792149988015,
+          66.82558062096433
+        ]
+      },
+      "properties": {
+        "magnitude": 5.095211445991604,
+        "time": 1539266893,
+        "place": "Random Location 31897",
+        "depth": 243.8946483581123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.226333134191549,
+          16.262926679291837
+        ]
+      },
+      "properties": {
+        "magnitude": 6.311627733999588,
+        "time": 1008946085,
+        "place": "Random Location 49622",
+        "depth": 507.93508393472905
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.73555424990263,
+          -16.179708752998508
+        ]
+      },
+      "properties": {
+        "magnitude": 8.0913907204035,
+        "time": 1521885511,
+        "place": "Random Location 22974",
+        "depth": 360.0165529253055
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.22221535947898,
+          86.95276029436701
+        ]
+      },
+      "properties": {
+        "magnitude": 5.434552955742439,
+        "time": 1342085710,
+        "place": "Random Location 19298",
+        "depth": 144.64005607368802
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.65855845091544,
+          -38.69829860791162
+        ]
+      },
+      "properties": {
+        "magnitude": 6.710136361312477,
+        "time": 976884686,
+        "place": "Random Location 91820",
+        "depth": 255.73637043513003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.122181832524,
+          70.83934395891742
+        ]
+      },
+      "properties": {
+        "magnitude": 5.003564405823175,
+        "time": 1043016044,
+        "place": "Random Location 9325",
+        "depth": 368.95526972283574
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.18806954307922,
+          -69.64322938559711
+        ]
+      },
+      "properties": {
+        "magnitude": 5.5270909169431786,
+        "time": 1463131050,
+        "place": "Random Location 34656",
+        "depth": 533.7165612351338
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.001346261085587,
+          -71.01013205805458
+        ]
+      },
+      "properties": {
+        "magnitude": 7.586371332639284,
+        "time": 1346025807,
+        "place": "Random Location 56857",
+        "depth": 175.6058448489727
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4480363265257,
+          -24.34729709610619
+        ]
+      },
+      "properties": {
+        "magnitude": 6.394646895764197,
+        "time": 1468935321,
+        "place": "Random Location 69139",
+        "depth": 602.8868077461786
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -129.91579398409405,
+          1.4307973203797957
+        ]
+      },
+      "properties": {
+        "magnitude": 8.554839448346836,
+        "time": 1671632927,
+        "place": "Random Location 78557",
+        "depth": 17.04293691820823
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.44916116992806,
+          -81.48255576880833
+        ]
+      },
+      "properties": {
+        "magnitude": 7.072729221076004,
+        "time": 1429733278,
+        "place": "Random Location 57754",
+        "depth": 249.57989694127983
+      }
+    }
+  ]
+}
