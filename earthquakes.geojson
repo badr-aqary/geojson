@@ -310,8 +310,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.44916116992806,
-          -81.48255576880833
+          24.489134,
+          54.409678
+        ]
+      },
+      "properties": {
+        "magnitude": 7.072729221076004,
+        "time": 1429733278,
+        "place": "Random Location 57754",
+        "depth": 249.57989694127983
+      }
+    }
+   {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.498741,
+          54.404352
         ]
       },
       "properties": {
