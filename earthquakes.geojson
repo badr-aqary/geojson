@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "unique-feature-id":1,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -12,6 +11,7 @@
         ]
       },
       "properties": {
+      "unique-feature-id":1,
         "magnitude": 4.576895166962268,
         "time": 1696881051,
         "place": "Random Location 42245",
@@ -20,7 +20,6 @@
     },
     {
       "type": "Feature",
-      "unique-feature-id":2,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -29,6 +28,7 @@
         ]
       },
       "properties": {
+      "unique-feature-id":2,
         "magnitude": 7.113070999028196,
         "time": 1627441265,
         "place": "Random Location 13246",
@@ -37,7 +37,6 @@
     },
     {
       "type": "Feature",
-      "unique-feature-id":3,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -46,6 +45,7 @@
         ]
       },
       "properties": {
+      "unique-feature-id":3,
         "magnitude": 5.395449714842783,
         "time": 1721832743,
         "place": "Random Location 52952",
@@ -54,7 +54,6 @@
     },
     {
       "type": "Feature",
-      "unique-feature-id":4,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -63,6 +62,7 @@
         ]
       },
       "properties": {
+      "unique-feature-id":4,
         "magnitude": 6.112594895683953,
         "time": 1099286619,
         "place": "Random Location 93168",
@@ -71,7 +71,6 @@
     },
     {
       "type": "Feature",
-      "unique-feature-id":5,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -80,6 +79,7 @@
         ]
       },
       "properties": {
+      "unique-feature-id":5,
         "magnitude": 6.041079640795338,
         "time": 1283416625,
         "place": "Random Location 395",
@@ -88,7 +88,6 @@
     },
     {
       "type": "Feature",
-      "unique-feature-id":6,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -97,6 +96,7 @@
         ]
       },
       "properties": {
+      "unique-feature-id":6,
         "magnitude": 6.384253546787281,
         "time": 1281444649,
         "place": "Random Location 39254",
@@ -105,7 +105,6 @@
     },
     {
       "type": "Feature",
-      "unique-feature-id":7,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -114,6 +113,7 @@
         ]
       },
       "properties": {
+      "unique-feature-id":7,
         "magnitude": 8.319913289835513,
         "time": 1291203305,
         "place": "Random Location 43265",
@@ -122,7 +122,6 @@
     },
     {
       "type": "Feature",
-      "unique-feature-id":8,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -131,6 +130,7 @@
         ]
       },
       "properties": {
+      "unique-feature-id":8,
         "magnitude": 5.463614649433779,
         "time": 1383326262,
         "place": "Random Location 43805",
@@ -139,7 +139,6 @@
     },
     {
       "type": "Feature",
-      "unique-feature-id":9,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -148,6 +147,7 @@
         ]
       },
       "properties": {
+      "unique-feature-id":9,
         "magnitude": 7.432556897037255,
         "time": 1537784970,
         "place": "Random Location 36058",
@@ -156,7 +156,6 @@
     },
     {
       "type": "Feature",
-      "unique-feature-id":10,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -165,6 +164,7 @@
         ]
       },
       "properties": {
+      "unique-feature-id":10,
         "magnitude": 5.095211445991604,
         "time": 1539266893,
         "place": "Random Location 31897",
@@ -173,7 +173,6 @@
     },
     {
       "type": "Feature",
-      "unique-feature-id":11,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -182,6 +181,7 @@
         ]
       },
       "properties": {
+      "unique-feature-id":11,
         "magnitude": 6.311627733999588,
         "time": 1008946085,
         "place": "Random Location 49622",
@@ -190,7 +190,6 @@
     },
     {
       "type": "Feature",
-      "unique-feature-id":12,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -199,6 +198,7 @@
         ]
       },
       "properties": {
+      "unique-feature-id":12,
         "magnitude": 8.0913907204035,
         "time": 1521885511,
         "place": "Random Location 22974",
@@ -207,7 +207,6 @@
     },
     {
       "type": "Feature",
-      "unique-feature-id":13,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -216,6 +215,7 @@
         ]
       },
       "properties": {
+      "unique-feature-id":13,
         "magnitude": 5.434552955742439,
         "time": 1342085710,
         "place": "Random Location 19298",
@@ -224,7 +224,6 @@
     },
     {
       "type": "Feature",
-      "unique-feature-id":14,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,6 +232,7 @@
         ]
       },
       "properties": {
+      "unique-feature-id":14,
         "magnitude": 6.710136361312477,
         "time": 976884686,
         "place": "Random Location 91820",
@@ -241,7 +241,6 @@
     },
     {
       "type": "Feature",
-      "unique-feature-id":15,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -250,6 +249,7 @@
         ]
       },
       "properties": {
+      "unique-feature-id":15,
         "magnitude": 5.003564405823175,
         "time": 1043016044,
         "place": "Random Location 9325",
@@ -258,7 +258,6 @@
     },
     {
       "type": "Feature",
-      "unique-feature-id":16,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -267,6 +266,7 @@
         ]
       },
       "properties": {
+      "unique-feature-id":16,
         "magnitude": 5.5270909169431786,
         "time": 1463131050,
         "place": "Random Location 34656",
@@ -275,7 +275,6 @@
     },
     {
       "type": "Feature",
-      "unique-feature-id":17,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -284,6 +283,7 @@
         ]
       },
       "properties": {
+      "unique-feature-id":17,
         "magnitude": 7.586371332639284,
         "time": 1346025807,
         "place": "Random Location 56857",
@@ -292,7 +292,6 @@
     },
     {
       "type": "Feature",
-      "unique-feature-id":18,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -301,6 +300,7 @@
         ]
       },
       "properties": {
+      "unique-feature-id":18,
         "magnitude": 6.394646895764197,
         "time": 1468935321,
         "place": "Random Location 69139",
@@ -309,7 +309,6 @@
     },
     {
       "type": "Feature",
-      "unique-feature-id":19,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -318,6 +317,7 @@
         ]
       },
       "properties": {
+      "unique-feature-id":19,
         "magnitude": 8.554839448346836,
         "time": 1671632927,
         "place": "Random Location 78557",
@@ -326,7 +326,6 @@
     },
     {
       "type": "Feature",
-      "unique-feature-id":20,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -335,6 +334,7 @@
         ]
       },
       "properties": {
+      "unique-feature-id":20,
         "magnitude": 7.072729221076004,
         "time": 1429733278,
         "place": "Random Location 57754",
@@ -343,7 +343,6 @@
     },
    {
       "type": "Feature",
-      "unique-feature-id":21,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -352,6 +351,7 @@
         ]
       },
       "properties": {
+      "unique-feature-id":21,
         "magnitude": 7.072729221076004,
         "time": 1429733278,
         "place": "Random Location 57754",
