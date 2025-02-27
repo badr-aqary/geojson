@@ -12,10 +12,7 @@
       },
       "properties": {
       "unique-feature-id":1,
-        "magnitude": 4.576895166962268,
-        "time": 1696881051,
         "place": "Random Location 42245",
-        "depth": 543.745428103595
       }
     },
     {
@@ -29,10 +26,7 @@
       },
       "properties": {
       "unique-feature-id":2,
-        "magnitude": 7.113070999028196,
-        "time": 1627441265,
         "place": "Random Location 13246",
-        "depth": 360.04311727827366
       }
     },
     {
@@ -46,10 +40,7 @@
       },
       "properties": {
       "unique-feature-id":3,
-        "magnitude": 5.395449714842783,
-        "time": 1721832743,
         "place": "Random Location 52952",
-        "depth": 660.0863226541383
       }
     },
     {
@@ -63,10 +54,7 @@
       },
       "properties": {
       "unique-feature-id":4,
-        "magnitude": 6.112594895683953,
-        "time": 1099286619,
         "place": "Random Location 93168",
-        "depth": 356.9662311984605
       }
     },
     {
@@ -80,10 +68,7 @@
       },
       "properties": {
       "unique-feature-id":5,
-        "magnitude": 6.041079640795338,
-        "time": 1283416625,
         "place": "Random Location 395",
-        "depth": 69.48975358590438
       }
     },
     {
@@ -97,10 +82,7 @@
       },
       "properties": {
       "unique-feature-id":6,
-        "magnitude": 6.384253546787281,
-        "time": 1281444649,
         "place": "Random Location 39254",
-        "depth": 518.4554034077465
       }
     },
     {
@@ -114,10 +96,7 @@
       },
       "properties": {
       "unique-feature-id":7,
-        "magnitude": 8.319913289835513,
-        "time": 1291203305,
         "place": "Random Location 43265",
-        "depth": 344.52215874679314
       }
     },
     {
@@ -131,10 +110,7 @@
       },
       "properties": {
       "unique-feature-id":8,
-        "magnitude": 5.463614649433779,
-        "time": 1383326262,
         "place": "Random Location 43805",
-        "depth": 198.91139347094085
       }
     },
     {
@@ -148,10 +124,7 @@
       },
       "properties": {
       "unique-feature-id":9,
-        "magnitude": 7.432556897037255,
-        "time": 1537784970,
         "place": "Random Location 36058",
-        "depth": 451.2485357466682
       }
     },
     {
@@ -165,10 +138,8 @@
       },
       "properties": {
       "unique-feature-id":10,
-        "magnitude": 5.095211445991604,
-        "time": 1539266893,
         "place": "Random Location 31897",
-        "depth": 243.8946483581123
+
       }
     },
     {
@@ -182,10 +153,7 @@
       },
       "properties": {
       "unique-feature-id":11,
-        "magnitude": 6.311627733999588,
-        "time": 1008946085,
         "place": "Random Location 49622",
-        "depth": 507.93508393472905
       }
     },
     {
@@ -199,10 +167,7 @@
       },
       "properties": {
       "unique-feature-id":12,
-        "magnitude": 8.0913907204035,
-        "time": 1521885511,
         "place": "Random Location 22974",
-        "depth": 360.0165529253055
       }
     },
     {
@@ -216,10 +181,7 @@
       },
       "properties": {
       "unique-feature-id":13,
-        "magnitude": 5.434552955742439,
-        "time": 1342085710,
         "place": "Random Location 19298",
-        "depth": 144.64005607368802
       }
     },
     {
@@ -233,10 +195,7 @@
       },
       "properties": {
       "unique-feature-id":14,
-        "magnitude": 6.710136361312477,
-        "time": 976884686,
         "place": "Random Location 91820",
-        "depth": 255.73637043513003
       }
     },
     {
@@ -250,10 +209,7 @@
       },
       "properties": {
       "unique-feature-id":15,
-        "magnitude": 5.003564405823175,
-        "time": 1043016044,
         "place": "Random Location 9325",
-        "depth": 368.95526972283574
       }
     },
     {
@@ -267,10 +223,7 @@
       },
       "properties": {
       "unique-feature-id":16,
-        "magnitude": 5.5270909169431786,
-        "time": 1463131050,
         "place": "Random Location 34656",
-        "depth": 533.7165612351338
       }
     },
     {
@@ -284,10 +237,7 @@
       },
       "properties": {
       "unique-feature-id":17,
-        "magnitude": 7.586371332639284,
-        "time": 1346025807,
         "place": "Random Location 56857",
-        "depth": 175.6058448489727
       }
     },
     {
@@ -301,10 +251,7 @@
       },
       "properties": {
       "unique-feature-id":18,
-        "magnitude": 6.394646895764197,
-        "time": 1468935321,
         "place": "Random Location 69139",
-        "depth": 602.8868077461786
       }
     },
     {
@@ -318,10 +265,7 @@
       },
       "properties": {
       "unique-feature-id":19,
-        "magnitude": 8.554839448346836,
-        "time": 1671632927,
         "place": "Random Location 78557",
-        "depth": 17.04293691820823
       }
     },
     {
@@ -335,10 +279,7 @@
       },
       "properties": {
       "unique-feature-id":20,
-        "magnitude": 7.072729221076004,
-        "time": 1429733278,
         "place": "Random Location 57754",
-        "depth": 249.57989694127983
       }
     },
    {
@@ -352,10 +293,7 @@
       },
       "properties": {
       "unique-feature-id":21,
-        "magnitude": 7.072729221076004,
-        "time": 1429733278,
         "place": "Random Location 57754",
-        "depth": 249.57989694127983
       }
     }
   ]
