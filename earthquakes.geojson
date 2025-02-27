@@ -295,6 +295,20 @@
       "unique-feature-id":21,
         "place": "Random Location 57754"
       }
+    },
+ {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.404352,
+          24.498741
+        ]
+      },
+      "properties": {
+      "unique-feature-id":22,
+        "place": "Random Location 57854"
+      }
     }
   ]
 }
